@@ -53,3 +53,4 @@ This project analyzes e-commerce sales data using **SQL** to identify sales tren
 B.Tech – Electrical and Electronics Engineering
 Sree Dattha Institute of Engineering and Science
 2026 Graduate
+
